@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1524005012 source:/home/ala/Bureau/jeu/jeu/main.cpp
+	<iostream>
+	"caso.h"
+	"partie.h"
+	<bits/stdc++.h>
+
+1523991777 source:/home/ala/Bureau/jeu/jeu/src/caso.cpp
+	"caso.h"
+	<bits/stdc++.h>
+
+1523991777 /home/ala/Bureau/jeu/jeu/include/caso.h
+	<bits/stdc++.h>
+	<iostream>
+
+1524006965 /home/ala/Bureau/jeu/jeu/include/partie.h
+	"caso.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1524266766 source:/home/ala/Bureau/jeu/jeu/src/partie.cpp
+	"partie.h"
+	"caso.h"
+	<bits/stdc++.h>
+
+1524655465 source:/home/ala/Bureau/cpp/projet-c++/jeu/main.cpp
+	<iostream>
+	"caso.h"
+	"partie.h"
+	<bits/stdc++.h>
+
+1523991777 /home/ala/Bureau/cpp/projet-c++/jeu/include/caso.h
+	<bits/stdc++.h>
+	<iostream>
+
+1524647104 /home/ala/Bureau/cpp/projet-c++/jeu/include/partie.h
+	"caso.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1523991777 source:/home/ala/Bureau/cpp/projet-c++/jeu/src/caso.cpp
+	"caso.h"
+	<bits/stdc++.h>
+
+1524657304 source:/home/ala/Bureau/cpp/projet-c++/jeu/src/partie.cpp
+	"partie.h"
+	"caso.h"
+	<bits/stdc++.h>
+

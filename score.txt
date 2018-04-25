@@ -1,0 +1,11 @@
+player : me1 score : 100
+player : me1 score : 100
+player : ala score : 3300
+player : alo score : 100
+player : hy score : 300
+player : fr score : 100
+player : ala score : 800
+player : k score : 100
+player : b score : 100
+player : qa score : 2100
+player : abir score : 1100
